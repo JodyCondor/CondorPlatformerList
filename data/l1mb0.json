@@ -9,5 +9,12 @@
     "password": "",
     "records": [
 
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
     ]
 }
