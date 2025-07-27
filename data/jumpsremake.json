@@ -1,0 +1,32 @@
+{
+    "id": 91176049,
+    "name": "JUMPS Remake",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/BMV3RNvdZIs",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+        {
+            "user": "Togatta",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+        {
+            "user": "Diamondsword216",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

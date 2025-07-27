@@ -1,0 +1,26 @@
+{
+    "id": 90639698,
+    "name": "PlutoPlanet Layout",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/CWbkYPkRncU",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+
+        {
+            "user": "Togatta",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+    ]
+}

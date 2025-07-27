@@ -1,0 +1,20 @@
+{
+    "id": 94175956,
+    "name": "Blound Ground",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/TIJ1G6g1R1g",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

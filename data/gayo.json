@@ -1,0 +1,20 @@
+{
+    "id": 108341717,
+    "name": "Gayological Factory",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/LSMxkDcxgl0",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+
+        {
+            "user": "Orgen",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

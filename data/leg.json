@@ -1,0 +1,32 @@
+{
+    "id": 90280874,
+    "name": "leG",
+    "author": "JodyCondor",
+    "creators": ["JodyCondor"],
+    "verifier": "JodyCondor",
+    "verification": "https://youtu.be/hje9p0bs128",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+
+        {
+            "user": "Equallake",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+        {
+            "user": "Lily",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       },
+        {
+            "user": "Diamondsword216",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": 91405931,
+    "name": "Spider Challenge",
+    "author": "Equallake",
+    "creators": ["Equallake"],
+    "verifier": "Equallake",
+    "verification": "https://youtu.be/35VvYWu2TCQ",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+
+        {
+            "user": "JodyCondor",
+            "link": "",
+            "percent": 100,
+            "hz": 69
+       }
+        
+    ]
+}
